@@ -21,13 +21,14 @@ enable_smart_app_banner                   : true                                
 your_name                                 : R4S3CDev
 your_link                                 : https://daysonsiteapp.github.io/app/
 your_city                                 : Calgary
-linkedin_username                         : cesarpalma
+
 email_address                             : daysonsite@icloud.com
 facebook_username                         :                                           
-instagram_username                        : R4S3CDev
+#instagram_username                        : R4S3CDev
+linkedin_username                         : cesarpalma
 twitter_username                          : R4S3CDev
-github_username                           : R4S3CDev
-youtube_username                          : github
+#github_username                           : R4S3CDev
+#youtube_username                          : github
 
 
 
