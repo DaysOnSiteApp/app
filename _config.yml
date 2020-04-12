@@ -69,15 +69,14 @@ features                                  :
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
-
+    
   - title                                 : Never miss a deadline
-     description                          : Keep track of all pending tasks like confirmation and follow up letters. Never forget to send a report on time.
-     fontawesome_icon_name                : check-circle
-   
+    description                           : Keep track of all pending tasks like confirmation and follow up letters. Never forget to send a report on time.
+    fontawesome_icon_name                 : check-circle
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings
