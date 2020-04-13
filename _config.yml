@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Sites in One Place
     description                           : All your sites information in one place. Same site different study protocols? Fear not. You can easily check in what protocols your sites are participating.
-    fontawesome_icon_name                 : hospital-symbol
+    fontawesome_icon_name                 : crosshairs
     
   - title                                 : Apple Maps Integration 
     description                           : What is the fastest way to get to your site? Any restaurant nearby? Days OnSite is fully integrated with Apple Maps in your device.
