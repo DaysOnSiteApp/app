@@ -11,7 +11,7 @@ playstore_link                            :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Days OnSite                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Coming Soon                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Improving our performance together. Created by a CRA that also loves to code.
+app_description                           : Improving performance together. The CRA tool you were waiting for. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -55,10 +55,10 @@ features                                  :
     description                           : Your sites are in different timezones? We got you covered. Current time on site is calculated for you. Be on time for your remote contacts.
     fontawesome_icon_name                 : globe-americas
   
-  - title                                 : Site Information in One Place
+  - title                                 : Sites in One Place
     description                           : All your sites information in one place. Same site different study protocols? Fear not. You can easily check in what protocols your sites are participating.
     fontawesome_icon_name                 : hospital-user
-
+    
   - title                                 : Apple Maps Integration 
     description                           : What is the fastest way to get to your site? Any restaurant nearby? Days OnSite is fully integrated with Apple Maps in your device.
     fontawesome_icon_name                 : map-marked-alt
@@ -85,7 +85,7 @@ features                                  :
 
   - title                                 : Your information is yours
     description                           : We Respect our privacy  and we don’t access to it and will never do. Read more about our Privacy Policy.
-    fontawesome_icon_name                 : people-arrows
+    fontawesome_icon_name                 : user-shield #people-arrows
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
