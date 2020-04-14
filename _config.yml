@@ -63,7 +63,7 @@ features                                  :
     description                           : What is the fastest way to get to your site? Any restaurant nearby? Days OnSite is fully integrated with Apple Maps in your device.
     fontawesome_icon_name                 : map-marked-alt
 
-  - title                                 : Contacts Separated from the Rest
+  - title                                 : Work-related Contacts
     description                           : All your work-related contacts are in new group separated from the rest.  Contacts is fully integrated with your Contacts app in your device.
     fontawesome_icon_name                 : address-book
 
