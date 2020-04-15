@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : map-marked-alt
 
   - title                                 : Work-related Contacts
-    description                           : All your work-related contacts are in new group separated from the rest.  Contacts is fully integrated with your Contacts app in your device.
+    description                           : All your work-related contacts are in a new group separated from the rest.  Days OnSite is fully integrated with your Contacts app in your device
     fontawesome_icon_name                 : address-book
     
   - title                                 : Reaching Monthly Metrics
