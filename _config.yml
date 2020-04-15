@@ -36,55 +36,51 @@ twitter_username                          : DaysOnSiteApp
 features                                  :
 
   - title                                 : Your Visits in One Place
-    description                           : Keep track of your visits in one place. Create recurrent visits and avoid the hassle to create them one by one.
+    description                           : Keep track of your visits in one place. Create recurrent visits and avoid the hassle of creating them one by one.
     fontawesome_icon_name                 : clipboard-list
     
   - title                                 : Visit Details at a Glance
-    description                           : No more wondering if the visit was confirmed or if you already sent the report. Not every visit is equal, half-days, full days, we take that into account when creating a new visit.
+    description                           : No more wondering if the visit was confirmed, if it’s a half or full-day visit, or if you sent the report. Keep all the details at hand. 
     fontawesome_icon_name                 : calendar-check
 
   - title                                 : Scheduling at Ease
-    description                           : You can schedule visits from Pre Study to Close out and stay on top of your days on site. A comprehensive list of previous and next visits per site.
+    description                           : Plan your visits schedule from pre-study to close out and stay on top of your days on site. View a comprehensive list of previous and next visits for all your sites.
     fontawesome_icon_name                 : business-time
 
   - title                                 : Never Miss a Deadline
-    description                           : Be on top of deadlines and due date calculations. Based on your own metrics you will know when a letter or report is due. Check your pending tasks with a list of pending confirmation and follow up letters as well as reports to be submitted.
+    description                           : Stay on top of deadlines and due dates. Based on your own metrics, you will know when a letter or report is due. Check your pending tasks with a list of pending confirmation and follow up letters as well as reports to be submitted.
     fontawesome_icon_name                 : clock
 
   - title                                 : Conquering Timezones
-    description                           : Your sites are in different timezones? We got you covered. Current time on site is calculated for you. Be on time for your remote contacts.
+    description                           : Your sites are in different timezones? We’ve got you covered. Current time at site is displayed. No more guessing what time is it for them.
     fontawesome_icon_name                 : globe-americas
   
   - title                                 : Sites in One Place
-    description                           : All your sites information in one place. Same site different study protocols? Fear not. You can easily check in what protocols your sites are participating.
+    description                           : All your sites information in one place. Same site different study protocols? Fear not. You can easily view which protocols are your sites participating in.
     fontawesome_icon_name                 : crosshairs
     
   - title                                 : Apple Maps Integration 
-    description                           : What is the fastest way to get to your site? Any restaurant nearby? Days OnSite is fully integrated with Apple Maps in your device.
+    description                           : What is the fastest way to get to your site? Any restaurants nearby? Days OnSite is fully integrated with Apple Maps in your device.
     fontawesome_icon_name                 : map-marked-alt
 
   - title                                 : Work-related Contacts
     description                           : All your work-related contacts are in new group separated from the rest.  Contacts is fully integrated with your Contacts app in your device.
     fontawesome_icon_name                 : address-book
-
-  - title                                 : Assignments Overview
-    description                           : A tree view of all your sponsors, study protocols, sites and visits. All of them at a glance.
-    fontawesome_icon_name                 : chart-bar
     
   - title                                 : Reaching Monthly Metrics
-    description                           : Days OnSite calculates how many days on site are you scheduling monthly. Be informed if you are over or under-booked for your next months and take actions accordingly.
+    description                           : Days OnSite displays how many days on site you are scheduling every month. Find out if you are over or under-booked for your next months and take actions accordingly.
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Be Part of the Future
-    description                           : You have a voice on new features and updates, be part of the development.  Take advantage of that and take part on the process to bring the features that you want to the app. Read more on the Story section.
+    description                           : You have a voice on new features and updates. Be part of the development and play a key role in bringing the features that you want to the app. Read more on the Story section.
     fontawesome_icon_name                 : users-cog
 
   - title                                 : Support a Fellow Colleague
-    description                           : Created and maintained by an indie developer who also is a CRA on the field.  Build by a CRA for CRAs all over the world.  
+    description                           : Created and maintained by an indie developer who also is a CRA on the field. An app built by a CRA for CRAs all over the world  
     fontawesome_icon_name                 : hands-helping
 
   - title                                 : Your information is yours
-    description                           : We Respect our privacy  and we don’t access to it and will never do. Read more about our Privacy Policy.
+    description                           : We respect your privacy. We don’t access your data and never will. Read more about our Privacy Policy.
     fontawesome_icon_name                 : user-shield #people-arrows
 
   - title                                 : # New Feature Title
