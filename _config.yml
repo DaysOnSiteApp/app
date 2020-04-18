@@ -18,14 +18,14 @@ enable_smart_app_banner                   : false                               
 
 
 # Information About Yourself
-your_name                                 : #R4S3CDev
-your_link                                 : #https://twitter.com/R4S3CDev
-your_city                                 : Icebreaker @ Canada
+your_name                                 : R4S3CDev
+your_link                                 : https://twitter.com/R4S3CDev
+your_city                                 : Canada
 
 email_address                             : contact@daysonsite.app
 facebook_username                         :                                           
-#instagram_username                        : R4S3CDev
-#linkedin_username                         : cesarpalma
+#instagram_username                        : 
+linkedin_username                         : company/daysonsiteapp/
 twitter_username                          : DaysOnSiteApp
 #github_username                           : R4S3CDev
 #youtube_username                          : github
