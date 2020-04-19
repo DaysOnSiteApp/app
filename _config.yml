@@ -72,7 +72,7 @@ features                                  :
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Be Part of the Future
-    description                           : You have a voice on new features and updates. Be part of the development and play a key role in bringing the features that you want to the app. Read more on the Story section.
+    description                           : You have a voice on new features and updates. Be part of the development and play a key role in bringing the features that you want to the app. Find out more in the Learn More section.
     fontawesome_icon_name                 : users-cog
 
   - title                                 : Support a Fellow Colleague
@@ -80,7 +80,7 @@ features                                  :
     fontawesome_icon_name                 : hands-helping
 
   - title                                 : Your information is yours
-    description                           : We respect your privacy. We don’t access your data and never will. Read more about our Privacy Policy.
+    description                           : We respect your privacy. We don’t access your data and never will. Find more in our Privacy Policy.
     fontawesome_icon_name                 : user-shield #people-arrows
 
   - title                                 : # New Feature Title
