@@ -21,17 +21,18 @@ I start to add more and more features according with my needs. One day I showed 
 
 If you got until here congratulations! You beat the average time span. Let me share some of the screen of the app and feel free to [subscribe for the official release date](http://eepurl.com/g0ksrn) and the future of the app. 
 
-At this time the best way to connect with us is following us in [LinkedIn](https://www.linkedin.com/company/daysonsiteapp/) and [Twitter](https://twitter.com/daysonsiteapp) and let us know what do you think of the project
+At this time the best way to connect with us is following us in [LinkedIn](https://www.linkedin.com/company/daysonsiteapp/) and [Twitter](https://twitter.com/daysonsiteapp) and let us know what do you think of the project.
+
 
 <br>
-### `Available soon`
+### `Introducing: Days OnSite`
 
 ![All visits in your phone](/assets/marketing/Composition_3_iPhone_11_Pro.png)
 ![All visits in your phone](/assets/marketing/Splash_Visits.png)
 ![All visits in your phone](/assets/marketing/Splash_Sites.png)
 ![All visits in your phone](/assets/marketing/Splash_Performance.png)
 
-### `Screenshots`
+### `Clean Design`
 ![All visits in your phone](/assets/marketing/IMG_3.png)
 ![All visits in your phone](/assets/marketing/IMG_1.png)
 ![All visits in your phone](/assets/marketing/IMG_5.png)
