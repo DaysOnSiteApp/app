@@ -26,7 +26,7 @@ At this time the best way to connect with us is following us in [LinkedIn](https
 <br>
 ### `Available soon`
 
-![All visits in your phone](/assets/marketing/Composition_Dark Mode.png)
+![All visits in your phone](/assets/marketing/Composition_3_iPhone_11_Pro.png)
 ![All visits in your phone](/assets/marketing/Splash_Visits.png)
 ![All visits in your phone](/assets/marketing/Splash_Sites.png)
 ![All visits in your phone](/assets/marketing/Splash_Performance.png)
