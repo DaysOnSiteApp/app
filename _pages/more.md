@@ -19,7 +19,7 @@ When it comes to sites, if I need the address of the clinic for my next visit I 
 
 I start to add more and more features according with my needs. One day I showed my app to a colleague and his excitement and points of improvement gave me the fuel needed to start to materialized this project into a full fledged app for every CRA. I got reaffirmation that I was in the right track.
 
-If you got until here congratulations! You beat the average time span. Let me share some of the screen of the app and feel free to [subscribe for the official release date](http://eepurl.com/g0ksrn) and the future of the app. 
+If you got until here congratulations! 🎉 You beat the average time span. Let me share some of the screen of the app and feel free to [subscribe for the official release date](http://eepurl.com/g0ksrn) and the future of the app. 
 
 At this time the best way to connect with me is following Days OnSite App in [LinkedIn](https://www.linkedin.com/company/daysonsiteapp/) and [Twitter](https://twitter.com/daysonsiteapp) and let me know what do you think of the project.
 
