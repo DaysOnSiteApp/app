@@ -37,7 +37,9 @@ At this time the best way to connect with us is following us in [LinkedIn](https
 ![All visits in your phone](/assets/marketing/06.png)
 
 <br>
+
 ### `Dark Mode`
+
 ![All visits in your phone](/assets/marketing/07.png)
 
 <br>
