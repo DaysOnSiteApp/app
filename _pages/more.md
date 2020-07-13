@@ -27,30 +27,17 @@ At this time the best way to connect with us is following us in [LinkedIn](https
 <br>
 ### `Introducing: Days OnSite`
 
-![All visits in your phone](/assets/marketing/Composition_3_iPhone_11_Pro.png)
-![All visits in your phone](/assets/marketing/Splash_Visits.png)
-![All visits in your phone](/assets/marketing/Splash_Sites.png)
-![All visits in your phone](/assets/marketing/Splash_Performance.png)
+![All visits in your phone](/assets/marketing/01.png)
+![All visits in your phone](/assets/marketing/02.png)
+![All visits in your phone](/assets/marketing/03.png)
+![All visits in your phone](/assets/marketing/04.png)
+![All visits in your phone](/assets/marketing/05.png)
 
 ### `Clean Design`
-![All visits in your phone](/assets/marketing/IMG_3.png)
-![All visits in your phone](/assets/marketing/IMG_1.png)
-![All visits in your phone](/assets/marketing/IMG_5.png)
-![All visits in your phone](/assets/marketing/IMG_6.png)
-![All visits in your phone](/assets/marketing/IMG_4.png)
-![All visits in your phone](/assets/marketing/IMG_2.png)
-![All visits in your phone](/assets/marketing/IMG_15.png)
-<br>
-![All visits in your phone](/assets/marketing/Banner_Linkedin_Company_Cover_Image.png)
-![All visits in your phone](/assets/marketing/IMG_9.png)
-![All visits in your phone](/assets/marketing/IMG_10.png)
-![All visits in your phone](/assets/marketing/IMG_7.png)
-![All visits in your phone](/assets/marketing/IMG_11.png)
-![All visits in your phone](/assets/marketing/IMG_8.png)
+![All visits in your phone](/assets/marketing/06.png)
+
 <br>
 ### `Dark Mode`
-![All visits in your phone](/assets/marketing/Composition_Dark_Mode.png)
-![All visits in your phone](/assets/marketing/IMG_14.png)
-![All visits in your phone](/assets/marketing/IMG_13.png)
+![All visits in your phone](/assets/marketing/07.png)
 
 <br>
