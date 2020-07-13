@@ -21,7 +21,7 @@ I start to add more and more features according with my needs. One day I showed 
 
 If you got until here congratulations! You beat the average time span. Let me share some of the screen of the app and feel free to [subscribe for the official release date](http://eepurl.com/g0ksrn) and the future of the app. 
 
-At this time the best way to connect with us is following us in [LinkedIn](https://www.linkedin.com/company/daysonsiteapp/) and [Twitter](https://twitter.com/daysonsiteapp) and let us know what do you think of the project.
+At this time the best way to connect with me is following Days OnSite App in [LinkedIn](https://www.linkedin.com/company/daysonsiteapp/) and [Twitter](https://twitter.com/daysonsiteapp) and let me know what do you think of the project.
 
 
 <br>
