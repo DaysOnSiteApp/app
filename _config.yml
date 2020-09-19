@@ -36,11 +36,11 @@ twitter_username                          : DaysOnSiteApp
 features                                  :
 
   - title                                 : Your Visits in One Place
-    description                           : Keep track of your visits in one place. Create recurrent visits and avoid the hassle of creating them one by one.
+    description                           : Keep track of your visits in one place. Create recurrent visits all at once.
     fontawesome_icon_name                 : clipboard-list
     
   - title                                 : Visit Details at a Glance
-    description                           : No more wondering if the visit was confirmed, if it’s a half or full-day visit, or if you sent the report. Keep all the details at hand. 
+    description                           : Is the visit confirmed? Is it a half or full-day visit? Did you send the report? Keep all the details at hand. 
     fontawesome_icon_name                 : calendar-check
 
   - title                                 : Scheduling at Ease
@@ -51,20 +51,20 @@ features                                  :
     description                           : Stay on top of deadlines and due dates. Based on your own metrics, you will know when a letter or report is due. Check your pending tasks with a list of pending confirmation and follow up letters as well as reports to be submitted.
     fontawesome_icon_name                 : clock
 
-  - title                                 : Conquering Timezones
-    description                           : Your sites are in different timezones? We’ve got you covered. Current time at site is displayed. No more guessing what time is it for them.
+  - title                                 : Conquering Time Zones
+    description                           : Your sites are in different time zones? We’ve got you covered. Current time at site is displayed.
     fontawesome_icon_name                 : globe-americas
   
   - title                                 : Sites in One Place
-    description                           : All your sites information in one place. Same site different study protocols? Fear not. You can easily view which protocols are your sites participating in.
+    description                           : All your sites information in one place. Same site different study protocols? Fear not. View the list of protocols each site is participating in.
     fontawesome_icon_name                 : crosshairs
     
   - title                                 : Apple Maps Integration 
-    description                           : What is the fastest way to get to your site? Any restaurants nearby? Days OnSite is fully integrated with Apple Maps in your device.
+    description                           : What is the fastest way to get to your site? Any restaurants nearby? Days OnSite is fully integrated with Apple Maps.
     fontawesome_icon_name                 : map-marked-alt
 
   - title                                 : Work-related Contacts
-    description                           : All your work-related contacts are in a new group separated from the rest.  Days OnSite is fully integrated with your Contacts app in your device
+    description                           : All your work-related contacts are in a new group separated from the rest. Days OnSite is fully integrated with your Contacts.
     fontawesome_icon_name                 : address-book
     
   - title                                 : Reaching Monthly Metrics
@@ -76,11 +76,11 @@ features                                  :
     fontawesome_icon_name                 : users-cog
 
   - title                                 : Support a Fellow Colleague
-    description                           : Created and maintained by an indie developer who also is a CRA on the field. An app built by a CRA for CRAs all over the world  
+    description                           : Created and maintained by an indie developer who also is a CRA on the field. An app built by a CRA for CRAs all over the world. 
     fontawesome_icon_name                 : hands-helping
 
-  - title                                 : Your information is yours
-    description                           : We respect your privacy. We don’t access your data and never will. Find more in our Privacy Policy.
+  - title                                 : Your Information is Yours
+    description                           : We respect your privacy. We do not access your data and never will. Find more in our Privacy Policy.
     fontawesome_icon_name                 : user-shield #people-arrows
 
   - title                                 : # New Feature Title
