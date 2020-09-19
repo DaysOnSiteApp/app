@@ -23,4 +23,4 @@ Thanks a lot for using Days OnSite, and we hope you're happy with it.
 <br>
 
 ## Any Question?
-If you have any issues to report or feedback to make about this privacy policy or anything else, you can contact us [contact@daysonsite.app](mailto:contact@daysonsite.app)
+If you have any issues to report or feedback to make about this privacy policy or anything else, you can contact us at [contact@daysonsite.app](mailto:contact@daysonsite.app)
