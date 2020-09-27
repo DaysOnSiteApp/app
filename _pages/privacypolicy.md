@@ -8,14 +8,10 @@ include_in_header: false
 September 18 2020
 
 # Privacy Policy
-
-<br>
-
 ## Personal Data
 We do not collect any of your data. Nothing.
 
 Everything you do is saved on-device and to your iCloud, which is synced across your devices using the same iCloud account.
-
 
 We don't display any ads or send anything to any server. So we don't track you using an advertising identifier or anything of the sort.
 
