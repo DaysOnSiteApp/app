@@ -5,9 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 18 2020
+September 2020
 
 # Privacy Policy
+
 ## Personal Data
 We do not collect any of your data. Nothing.
 
