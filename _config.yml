@@ -11,7 +11,7 @@ playstore_link                            : http://eepurl.com/g0ksrn            
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Days OnSite                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Coming Soon                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Improving performance together. The CRA tool you were waiting for. 
+app_description                           : The best app to keep track of your monitoring visits, research sites and study protocols. Created and maintained by an indie developer who is also a CRA on the field. #Improving performance together. The CRA tool you were waiting for. 
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
