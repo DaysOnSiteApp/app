@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 2020
+October 2020
 
 # Days OnSite Terms of Use
 
